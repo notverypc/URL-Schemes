@@ -1,3 +1,8 @@
 URL-Schemes
 ===========
-URL I use on my iPhone/iPad.
+These are the URL schemes that I use.
+
+The apps I use them with are:
+
+Tally - http://agiletortoise.com/tally/
+
