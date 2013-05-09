@@ -8,3 +8,5 @@ Tally - http://agiletortoise.com/tally/
 
 Pocket - http://getpocket.com/
 
+Safari
+
