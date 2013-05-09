@@ -1,0 +1,3 @@
+# Open Current Webpage in Google Chrome
+
+javascript:location.href="googlechrome"+location.href.substring(4);
